@@ -12,8 +12,7 @@ function showMessage() {
     message.classList.remove("hidden");
 
     // Teks pesan spesial
-    var messageText = "Terimakasih ya, Terimakasih untuk apa hayo, terimakasih telah menerima aku apa adanya, terimakasih telah sabar dengan perilaku ku yg sering membuat kamu kesel, capek, kecewa, tapiiii...... ada tapi nya xixi, aku sayang banget sama kamu, cinta banget sama kamu, setiap selesai sholat aku selalu berdoa biar kita selalu bersama sama selamanya. kita janji ya walaupun ada masalah apapun jangan sampai menyelesaikan hubungan kita ini, yang di selesaikan itu masalahnya, kita perbaiki hubungan kita, sekali lagi janji ya sayangg xixixi JANJIIIII!!, ga janji ga sayang aku xixi. mwahh mwahh mwahh lopyuuu always cantikuuu, duniakuuu mwahh    ❤💞💋💋💋💍💍💍🥰🥰🥰❤💞";
-    
+    var messageText = "k apa hayo, terimakasih telah menerima aku apa adanya, terimakasih telah sabar dengan perilaku ku yg sering membuat kamu kesel, capek, kecewa, tapiiii...... ada tapi nya xixi, aku sayang banget sama kamu, cinta banget sama kamu, setiap selesai sholat aku selalu berdoa biar kita selalu bersama sama selamanya. kita janji ya walaupun ada masalah apapun jangan sampai menyelesaikan hubungan kita ini, yang di selesaikan itu masalahnya, kita perbaiki hubungan kita, sekali lagi janji ya sayangg xixixi JANJIIIII!!, ga janji ga sayang a";
 
     var i = 0;
     var textElement = document.getElementById("textMessage");
