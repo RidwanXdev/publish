@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Untuk Kamu 💌</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: url('nganu.jpg') no-repeat center center fixed;
+      background-size: cover;
+      font-family: 'Segoe UI', sans-serif;
+      height: 100vh;
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #fff;
+    }
+
+    #container {
+      text-align: center;
+    }
+
+    #heartButton {
+      background-color: #ff4d6d;
+      color: white;
+      border: none;
+      border-radius: 50%;
+      font-size: 30px;
+      padding: 20px;
+      cursor: pointer;
+      animation: pulse 1.5s infinite;
+      box-shadow: 0 0 15px rgba(255, 77, 109, 0.6);
+    }
+
+    @keyframes pulse {
+      0% { transform: scale(1); }
+      50% { transform: scale(1.1); }
+      100% { transform: scale(1); }
+    }
+
+    #message {
+      font-size: 18px;
+      line-height: 1.6;
+      margin-top: 30px;
+      max-width: 600px;
+      padding: 20px;
+      background-color: rgba(0, 0, 0, 0.5);
+      border-radius: 12px;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    .emoji {
+      position: fixed;
+      font-size: 24px;
+      animation: fall linear infinite;
+      pointer-events: none;
+    }
+
+    @keyframes fall {
+      0% { top: -10px; }
+      100% { top: 100vh; }
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <button id="heartButton" onclick="showMessage()">❤️</button>
+    <div id="message" class="hidden">
+      <p id="textMessage"></p>
+    </div>
+  </div>
+
+  <div id="fallingEmojis" class="hidden"></div>
+  <audio id="backgroundMusic" src="anugerahterindah.mp3" loop></audio>
+
+  <script>
+    function showMessage() {
+      var music = document.getElementById("backgroundMusic");
+      music.play();
+
+      var heartButton = document.getElementById("heartButton");
+      heartButton.style.display = "none";
+
+      var message = document.getElementById("message");
+      message.classList.remove("hidden");
+
+      var messageText = 
+`Sejujurnya, aku nggak pernah nyangka bakal sedekat ini sama kamu. Awalnya cuma iseng ngobrol, tapi makin ke sini, rasanya jadi beda. Kamu itu unik cara kamu ketawa, cara kamu respon hal-hal kecil, dan perhatian kamu yang sering bikin aku senyum sendiri. Tanpa sadar, kamu jadi bagian dari hari-hariku yang paling aku tunggu.
+
+
+Aku mulai sadar, kalau kebahagiaan aku belakangan ini banyak datang karena kamu. Entah itu dari chat sederhana, cerita receh kamu, atau sekedar liat kamu aktif aja udah cukup buat bikin hari aku lebih cerah. Dan dari situ, aku tahu... perasaan ini bukan sekedar suka biasa. Aku beneran pengen lebih dari sekedar teman buat kamu.
+
+
+Jadi, hari ini aku nekat ngomong. Aku suka kamu, serius. Bukan karena kamu sempurna, tapi karena kamu itu nyata dan bikin aku nyaman jadi diri sendiri. Mau nggak kamu jadi pacarku? Nggak janji hubungan kita bakal selalu mulus, tapi aku janji bakal selalu berusaha buat jaga kamu dan bikin kamu bahagia.
+
+
+Aku tahu aku bukan orang yang punya segalanya. Aku nggak bisa janjiin kemewahan, nggak bisa selalu tampak sempurna. Tapi satu hal yang pasti, aku punya hati yang tulus yang bener-bener cinta sama kamu. Aku nggak punya apa-apa selain perasaan ini yang terus tumbuh setiap hari, berharap kamu jadi orang yang bisa aku bahagiain, setiap waktu, selamanya.`;
+
+      var i = 0;
+      var textElement = document.getElementById("textMessage");
+
+      function typeWriter() {
+        if (i < messageText.length) {
+          if (messageText.charAt(i) === '\n') {
+  textElement.innerHTML += '<br>';
+} else {
+  textElement.innerHTML += messageText.charAt(i);
+}
+
+          i++;
+          setTimeout(typeWriter, 56);
+        } else {
+          startFallingEmojis();
+        }
+      }
+
+      typeWriter();
+    }
+
+    function startFallingEmojis() {
+      var emojisContainer = document.getElementById("fallingEmojis");
+      emojisContainer.classList.remove("hidden");
+
+      for (let i = 0; i < 30; i++) {
+        let emoji = document.createElement("span");
+        emoji.classList.add("emoji");
+        emoji.textContent = Math.random() > 0.5 ? "❤️" : "🌸";
+        emoji.style.left = Math.random() * 100 + "vw";
+        emoji.style.animationDuration = (Math.random() * 3 + 4) + "s";
+        emoji.style.fontSize = (Math.random() * 16 + 20) + "px";
+        emojisContainer.appendChild(emoji);
+
+        setTimeout(() => {
+          emoji.style.animationPlayState = "running";
+        }, 100);
+      }
+    }
+  </script>
+</body>
+</html>
