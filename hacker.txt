@@ -1,7 +1,7 @@
 [
   {
-    "name": "nagio",
-    "token": "e6567706faf6e19e3a12467a5503ca12",
+    "name": "develop",
+    "token": "b0e9c7bfec2bc6d1bb67accbe44eec54",
     "exp": "2025-12-31"
   },
   {
