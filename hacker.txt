@@ -1,1 +1,17 @@
-8255394667:AAGjXPodh7T24XmFx9-oL-JGC0DDbHdM3PU
+[
+  {
+    "name": "nagio",
+    "token": "e6567706faf6e19e3a12467a5503ca12",
+    "exp": "2025-12-31"
+  },
+  {
+    "name": "suu",
+    "token": "aa9c561bc7ba66d2e43a0514db12b2c4",
+    "exp": "2026-01-10"
+  },
+  {
+    "name": "yuuh",
+    "token": "6ca451d5a5f39ae5f711b6f14b54e4ab",
+    "exp": "2025-12-31"
+  }
+]
