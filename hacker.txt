@@ -5,8 +5,8 @@
     "exp": "2025-12-31"
   },
   {
-    "name": "suu",
-    "token": "aa9c561bc7ba66d2e43a0514db12b2c4",
+    "name": "gntf",
+    "token": "7440c1fe264ef7ad77d6b4126b9b0b4d",
     "exp": "2026-01-10"
   },
   {
