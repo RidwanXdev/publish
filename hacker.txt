@@ -13,5 +13,10 @@
     "name": "yuuh",
     "token": "6ca451d5a5f39ae5f711b6f14b54e4ab",
     "exp": "2025-12-31"
+  },
+  {
+    "name": "admin",
+    "token": "be62395fa3edc9e84df81d19f28eaeb8",
+    "exp": "2025-12-31"
   }
 ]
