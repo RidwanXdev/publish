@@ -1,7 +1,7 @@
 [
   {
-    "name": "bhu",
-    "token": "2705faa542dae1e02497f1abc33af5ed",
+    "name": "ADMIN2",
+    "token": "9bc15b92598aed52345bf01727f35674",
     "exp": "2025-12-30"
   },
   {
