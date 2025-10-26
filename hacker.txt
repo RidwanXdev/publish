@@ -1,7 +1,7 @@
 [
   {
-    "name": "ADMINN",
-    "token": "93204db6d5d2635a9ea598685aa8ab4f",
+    "name": "bhu",
+    "token": "2705faa542dae1e02497f1abc33af5ed",
     "exp": "2025-12-30"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "name": "ANGGA",
-    "token": "81d1f7605d7731e5423b8b766f6b9b5b",
+    "token": "088d6f03ea278e817ac987561c9420c4",
     "exp": "2025-12-31"
   },
   {
