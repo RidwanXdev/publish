@@ -1,7 +1,7 @@
 [
   {
-    "name": "ADMIN2",
-    "token": "9bc15b92598aed52345bf01727f35674",
+    "name": "atminn",
+    "token": "e75c79e13d35ca5430a99144577f5545",
     "exp": "2025-12-30"
   },
   {
