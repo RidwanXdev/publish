@@ -41,7 +41,7 @@
   },
   {
     "name": "KUNCI1",
-    "token": "de303d246751d63f3dd960e17c3d7bc9",
+    "token": "820601e4fa2cc322bbed52f4a1403aaf",
     "exp": "2025-12-31"
   }
 ]
