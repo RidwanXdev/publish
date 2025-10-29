@@ -11,7 +11,7 @@
   },
   {
     "name": "ANGGA",
-    "token": "93c8ae5648bd83faa316e77d5bdfeba2",
+    "token": "2f58aa0e5c484ca5579b5f378d265e36",
     "exp": "2025-12-31"
   },
   {
