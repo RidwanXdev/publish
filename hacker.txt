@@ -5,6 +5,11 @@
     "exp": "2025-12-30"
   },
   {
+    "name": "TERMUX",
+    "token": "8209f8892214851a392dc9941de1fca2",
+    "exp": "2026-01-10"
+  },
+  {
     "name": "bhu",
     "token": "2705faa542dae1e02497f1abc33af5ed",
     "exp": "2026-01-10"
