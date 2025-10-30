@@ -6,7 +6,7 @@
   },
   {
     "name": "TERMUX",
-    "token": "8209f8892214851a392dc9941de1fca2",
+    "token": "840cffacd61c65d2d0868df0ce133fdd",
     "exp": "2026-01-10"
   },
   {
