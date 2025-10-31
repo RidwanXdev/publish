@@ -10,6 +10,11 @@
     "exp": "2026-01-10"
   },
   {
+    "name": "TERMUX",
+    "token": "840cffacd61c65d2d0868df0ce133fdd",
+    "exp": "2026-01-10"
+  },
+  {
     "name": "ANGGA",
     "token": "2f58aa0e5c484ca5579b5f378d265e36",
     "exp": "2025-12-31"
