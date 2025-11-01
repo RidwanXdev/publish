@@ -10,8 +10,8 @@
     "exp": "2026-01-10"
   },
   {
-    "name": "TERMUX",
-    "token": "840cffacd61c65d2d0868df0ce133fdd",
+    "name": "razerditya",
+    "token": "0fcb5969b0083259474f13de6000c39c",
     "exp": "2026-01-10"
   },
   {
