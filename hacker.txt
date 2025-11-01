@@ -11,7 +11,7 @@
   },
   {
     "name": "razerditya",
-    "token": "0fcb5969b0083259474f13de6000c39c",
+    "token": "02d77ce55b60786b736900a2de53fe55",
     "exp": "2026-01-10"
   },
   {
