@@ -12,7 +12,7 @@
   {
     "name": "razerditya",
     "token": "02d77ce55b60786b736900a2de53fe55",
-    "exp": "2024-01-10"
+    "exp": "2026-01-10"
   },
   {
     "name": "ANGGA",
