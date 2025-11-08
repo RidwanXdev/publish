@@ -56,12 +56,12 @@
   },
   {
     "name": "HELLBOY",
-    "token": "7e710ac2897dc252437428bb181c1d40",
+    "token": "a9d12f6df32162d99d49a7fae48db81d",
     "exp": "2025-12-31"
   },
   {
     "name": "HELLBOY",
-    "token": "8d6d857f87d5e537463609d61e17d054",
+    "token": "fb8bee86e9659bfbf18c27b551b91466",
     "exp": "2025-12-31"
   }
 ]
