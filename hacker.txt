@@ -13,5 +13,10 @@
     "name": "MAGNUMFILTER2",
     "token": "ef6c9ff796c08a2328ad7b108a389b50",
     "exp": "2030-12-31"
+  },
+  {
+    "name": "MAGNUM",
+    "token": "aa95c1fe151a6c81147ec4c63ac74cc1",
+    "exp": "2030-12-31"
   }
 ]
