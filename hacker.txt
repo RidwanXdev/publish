@@ -1,7 +1,7 @@
 [
   {
-    "name": "",
-    "token": "",
-    "exp": "2025-12-31"
+    "name": "admin",
+    "token": "eaece063ac6dec244ab65f648cfb9693",
+    "exp": "2030-12-31"
   }
 ]
