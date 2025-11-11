@@ -18,5 +18,10 @@
     "name": "MAGNUM",
     "token": "aa95c1fe151a6c81147ec4c63ac74cc1",
     "exp": "2030-12-31"
+  },
+  {
+    "name": "HELLBOY",
+    "token": "a9d12f6df32162d99d49a7fae48db81d",
+    "exp": "2030-12-31"
   }
 ]
