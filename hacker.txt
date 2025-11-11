@@ -1,67 +1,7 @@
 [
   {
-    "name": "KUNCI13",
-    "token": "8e92841e279a33b7c6f9ac30865a23da",
-    "exp": "2025-12-30"
-  },  
-  {
-    "name": "ui",
-    "token": "89f1c86d219582a0c3bfa088026622a1",
-    "exp": "2026-01-10"
-  },
-  {
-    "name": "MAIZURA",
-    "token": "07a0e2d3fce8579a5af1cd8004049aa4",
-    "exp": "2025-12-10"
-  },
-  {
-    "name": "ANGGA",
-    "token": "2f58aa0e5c484ca5579b5f378d265e36",
-    "exp": "2025-12-31"
-  },
-  {
-    "name": "admin",
-    "token": "be62395fa3edc9e84df81d19f28eaeb8",
-    "exp": "2025-12-31"
-  },
-  {
-    "name": "ADMIN3",
-    "token": "6fc8dd93046364f422aadfd54084c279",
-    "exp": "2025-12-31"
-  },
-  {
-    "name": "fyth",
-    "token": "475379a327882c4a7cc4af36f34b43f9",
-    "exp": "2025-12-31"
-  },
-  {
-    "name": "KUNCI122",
-    "token": "ad149809d03352cfaefd7f09c289e625",
-    "exp": "2025-12-31"
-  },
-  {
-    "name": "KUNCI777",
-    "token": "475379a327882c4a7cc4af36f34b43f9",
-    "exp": "2025-12-31"
-  },
-  {
-    "name": "KUNCI1",
-    "token": "820601e4fa2cc322bbed52f4a1403aaf",
-    "exp": "2025-12-31"
-  },
-  {
-    "name": "KUNCI14",
-    "token": "f7c44767de7da719f2bcb104bbdc755a",
-    "exp": "2025-12-31"
-  },
-  {
-    "name": "HELLBOY",
-    "token": "a9d12f6df32162d99d49a7fae48db81d",
-    "exp": "2025-12-31"
-  },
-  {
-    "name": "HELLBOY",
-    "token": "fb8bee86e9659bfbf18c27b551b91466",
+    "name": "",
+    "token": "",
     "exp": "2025-12-31"
   }
 ]
