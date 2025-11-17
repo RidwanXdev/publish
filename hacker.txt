@@ -38,5 +38,10 @@
     "name": "ANCURUTIS_11",
     "token": "78b6524bb7a9c28625c55b9d835f5831",
     "exp": "2025-11-28"
+  },
+  {
+    "name": "MAGNUMFILTER",
+    "token": "7d38977867f2deb3c01dfb2f87643ca3",
+    "exp": "2025-11-28"
   }
 ]
