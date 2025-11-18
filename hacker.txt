@@ -42,6 +42,11 @@
   {
     "name": "MAGNUMFILTER",
     "token": "7d38977867f2deb3c01dfb2f87643ca3",
-    "exp": "2025-11-28"
+    "exp": "2025-12-28"
+  },
+  {
+    "name": "Koi",
+    "token": "914c4c18aff2cf037bedb75da849f536",
+    "exp": "2025-11-21"
   }
 ]
