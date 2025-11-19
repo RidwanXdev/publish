@@ -46,7 +46,7 @@
   },
   {
     "name": "Koi",
-    "token": "914c4c18aff2cf037bedb75da849f536",
+    "token": "1627308bc93ce660aec23f258075a547",
     "exp": "2025-11-21"
   }
 ]
