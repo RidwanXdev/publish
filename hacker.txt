@@ -68,5 +68,10 @@
     "name": "ALCATRAZ",
     "token": "a7e8792fab58b87e397157f10baa180c",
     "exp": "2025-12-03"
+  },
+  {
+    "name": "ari",
+    "token": "81af28a6085ce906de7b6dba2e3cbc39",
+    "exp": "2025-12-03"
   }
 ]
