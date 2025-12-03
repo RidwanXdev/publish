@@ -70,6 +70,11 @@
     "exp": "2026-01-04"
   },
   {
+    "name": "ALCATRAZ",
+    "token": "f443ef74e2ff4c98189ef4af04b5db8a",
+    "exp": "2026-01-04"
+  },
+  {
     "name": "ari",
     "token": "81af28a6085ce906de7b6dba2e3cbc39",
     "exp": "2025-12-03"
