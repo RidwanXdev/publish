@@ -1,7 +1,7 @@
 [
   {
-    "name": "admin",
-    "token": "eaece063ac6dec244ab65f648cfb9693",
+    "name": "angga tes",
+    "token": "e6f9369f69ed4926cfcfda74ad91811d",
     "exp": "2030-12-31"
   },
   {
