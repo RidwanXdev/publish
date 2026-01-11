@@ -82,17 +82,17 @@
   {
     "name": "nabi palsu",
     "token": "b3fa7fcbed90612ce4f055f31b62ce36",
-    "exp": "2026-12-04"
+    "exp": "2025-12-04"
   },
   {
     "name": "nabi palsu",
     "token": "f0f61ed414600960fb03cbccea33407c",
-    "exp": "2026-12-04"
+    "exp": "2025-12-04"
   },
   {
     "name": "nabi palsu",
     "token": "fbc1fb22148c94a53a711f3d4d9acc92",
-    "exp": "2026-12-04"
+    "exp": "2025-12-04"
   },
   {
     "name": "ari",
