@@ -1,4 +1,5 @@
 [
-  {"username" : "zainal abidin", "password" : "yureh@678"},
+  {"username" : "zainal", "password" : "yureh@678"},
+  {"username" : "admin", "password" : "admin123"},
   {"username" : "zainal mustofa", "password" : "yuremi@678"}
 ]
