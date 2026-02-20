@@ -1,8 +1,7 @@
 [
   {
-    "name": "angga tes",
-    "token": "e6f9369f69ed4926cfcfda74ad91811d",
-    "exp": "2030-12-31"
+    "username": "ahah",
+    "password": "ula"
   },
   {
     "name": "MAGNUMFILTER",
