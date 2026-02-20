@@ -1,3 +1,0 @@
-[
-  {"username" : "lele", "password" : "lelegoreng123"}
-]
