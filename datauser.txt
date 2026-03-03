@@ -1,6 +1,0 @@
-[
-  {
-    "username": "QWERTY",
-    "password": "QWERTY123"
-  }
-]
